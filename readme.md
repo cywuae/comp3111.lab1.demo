@@ -1,2 +1,2 @@
-Wu Chong Yu
-20434398
+Name : Wu Chong Yu
+id : 20434398
